@@ -9,7 +9,7 @@ const Header = () => {
         <div>
           <Button text={'Đăng ký'} textColor='text-white' bgColor='bg-[#3961fb]' />
           <Button text={'Đăng nhập'} textColor='text-white' bgColor='bg-[#3961fb]' />
-          <Button text={'Đăng tin mới'} textColor='text-white' bgColor='bg-[#3961fb]' />
+          <Button text={'Đăng tin mới'} textColor='text-white' bgColor='bg-secondary2' />
         </div>
     </div>
   )
